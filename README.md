@@ -2,6 +2,11 @@
 
 A simple and modern weather app built using **JavaScript, HTML, and CSS**, powered by the **Open-Meteo API** for real-time weather data. This app allows users to **search for any city** and get weather conditions, temperature, wind speed, and humidity. It also features **dynamic backgrounds, weather icons, and a °C/°F toggle** for a better experience.
 
+
+![image](https://github.com/user-attachments/assets/52b138eb-a771-47b7-8c62-d84cfab58961)
+
+
+Try it here: https://mtar786.github.io/weatherApp/
 ---
 
 ## 🚀 Features
